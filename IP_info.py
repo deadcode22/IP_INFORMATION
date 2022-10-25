@@ -1,4 +1,4 @@
-
+# Welcome in tool information 
 #     color 
 lblue = "\033[96m"
 red = "\033[91m"
@@ -15,7 +15,7 @@ try:
 
 except ModuleNotFoundError:
     print(f'\t{red}[{ylw}!{red}] {bn}https://t.me/black_code_22 \n')
-    print(f"\t{red}[{ylw}!{red}] Error {ylw}!!!{bn} Check install pip requests Or geocoder ")
+    print(f"\t{red}[{ylw}!{red}] Error {ylw}!!!{bn} Check install pip requests Or geocoder  ")
     exit() 
 except:
     pass    
