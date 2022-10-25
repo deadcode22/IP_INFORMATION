@@ -6,7 +6,7 @@ ip geo location get info like location , isp , org , country and more ...
 
 ` git clone https://github.com/deadcode22/IP_INFORMATION.git `
 
-` cd ipgeolocation `
+` cd IP_INFORMATION `
 
 ` pip3 install requests `
 
